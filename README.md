@@ -6,35 +6,33 @@ I thought it might be worthwhile aggregating them in a Github repository so that
 
 I'm going to try my best to keep these in a semi-organized fashion. I'll bundle specific ideas for platforms into folders. And because these ideas might become outdated, I will also record the date in which I wrote them.
 
-## Index of Feature Requests
+## Product Index
 
-### n8n
-- [Drop Fields Node for Data Redaction and Branching](./n8n/drop-fields-node-data-redaction-branching.md) - August 19, 2025
-- [UI Helper/Picker for Date Range](./n8n/date-range-picker-ui/README.md) - July 31, 2025
-- [Conversational Form Node for Input Data Capture](./n8n/conversational-form-node.md) - May 27, 2025
-- [Easier Canvas Navigation: Arrow Nav, Minimap, Grab](./n8n/canvas-navigation-improvements/README.md) - May 8, 2025
+### AI & LLM Tools
+- [AnythingLLM](./anythingllm/) - Open-source AI document chat
+- [Claude Code](./claude-code/) - AI-powered coding assistant
+- [Gemini CLI](./gemini-cli/) - Google Gemini command-line interface
+- [LibreChat](./librechat/) - AI chat interface
+- [NotebookLM](./notebooklm/) - Google's AI-powered notebook
+- [Perplexity AI](./perplexity-ai/) - AI search engine
+- [Qwen](./qwen/) - Alibaba's language model
 
-### NotebookLM
-- [Previous Outputs as Context Data](./notebooklm/previous-outputs-as-context-data.md) - October 2025
-- [System Prompt for Report Generation](./notebooklm/system-prompt-for-report-generation.md) - October 2025
+### Automation & Workflow
+- [n8n](./n8n/) - Workflow automation platform
+- [Templates](./templates/) - General templates and utilities
 
-### Voicenotes
-- [Voicenotes + Todoist: Smart Date Recognition](./voicenotes/voicenotes-+-todoist-smart-date-recognition.md) - August 2025
-- [Feature Idea: Fix Word, Add to Dictionary](./voicenotes/feature-idea-fix-word,-add-to-dictionary.md) - July 2025
-- [Feature Request: Highlight for Webhook-Linked Tags](./voicenotes/feature-request-highlight-for-webhook-linked-tags.md) - July 2025
-- [Feature Request: Hierarchical Tags Taxonomy and Standalone UI Page for Management](./voicenotes/feature-request-hierarchical-tags-taxonomy-and-standalone-ui-page-for-management.md) - July 2025
-- [Feature Request: Multi-Account Support](./voicenotes/feature-request-multi-account-support.md) - July 2025
-- [FR: The Ability to Name Webhooks](./voicenotes/fr---the-ability-to-name-webhooks.md) - July 2025
-- [FR: Accidental Recording Detection and Prevention](./voicenotes/fr-accidental-recording-detection-and-prevention.md) - July 2025
-- [Feature Idea: Tag to Prompt Automations](./voicenotes/feature-idea-tag-to-prompt-automations.md) - June 2025
-- [Feature Request: Note Backup & Export](./voicenotes/feature-request---note-backup--export.md) - June 2025
-- [Feature Idea: Create Custom Prompts with Voice!](./voicenotes/feature-idea-create-custom-prompts-with-voice!.md) - June 2025
-- [Feature Idea: User Personalisation Elements (Name, Email Sig)](./voicenotes/feature-idea-user-personalisation-elements-(name,-email-sig)-that-get-appended-to-transformation-pro.md) - June 2025
-- [Feature Request: Verbatim/Unedited Output Option for All Notes (Raw Copy)](./voicenotes/feature-request-verbatimunedited-output-option-for-all-notes-(raw-copy).md) - June 2025
-- [Improved System Prompts for Note Reformatting (Request, Idea)](./voicenotes/improved-system-prompts-for-note-reformatting-(request,-idea).md) - June 2025
-- [FR: Bluetooth Microphone Source for Android](./voicenotes/fr-bluetooth-microphone-source-for-android.md) - June 2025
-- [Feature Request: Configurable Webhook & Integration Delay Interval](./voicenotes/feature-request-configurable-webhook-&-integration-delay-interval.md) - June 2025
-- [Feature Request: More Keyboard Shortcuts!](./voicenotes/feature-request-more-keyboard-shortcuts!.md) - June 2025
+### Home & Personal Management
+- [Advanced Camera Card](./advanced-camera-card/) - Home Assistant camera card
+- [Alarmo](./alarmo/) - Home Assistant alarm integration
+- [Homebox](./homebox/) - Inventory and organization system
+- [Voicenotes](./voicenotes/) - Voice-to-text note-taking
+
+### Data & Productivity
+- [DSNote](./dsnote/) - Note-taking application
+- [NocoDB](./nocodb/) - No-code database platform
+
+### Privacy & Open Source
+- [FUTO](./futo/) - Privacy-focused tools
 
 ## Author
 
