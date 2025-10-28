@@ -18,6 +18,24 @@ I'm going to try my best to keep these in a semi-organized fashion. I'll bundle 
 - [Previous Outputs as Context Data](./notebooklm/previous-outputs-as-context-data.md) - October 2025
 - [System Prompt for Report Generation](./notebooklm/system-prompt-for-report-generation.md) - October 2025
 
+### Voicenotes
+- [Voicenotes + Todoist: Smart Date Recognition](./voicenotes/voicenotes-+-todoist-smart-date-recognition.md) - August 2025
+- [Feature Idea: Fix Word, Add to Dictionary](./voicenotes/feature-idea-fix-word,-add-to-dictionary.md) - July 2025
+- [Feature Request: Highlight for Webhook-Linked Tags](./voicenotes/feature-request-highlight-for-webhook-linked-tags.md) - July 2025
+- [Feature Request: Hierarchical Tags Taxonomy and Standalone UI Page for Management](./voicenotes/feature-request-hierarchical-tags-taxonomy-and-standalone-ui-page-for-management.md) - July 2025
+- [Feature Request: Multi-Account Support](./voicenotes/feature-request-multi-account-support.md) - July 2025
+- [FR: The Ability to Name Webhooks](./voicenotes/fr---the-ability-to-name-webhooks.md) - July 2025
+- [FR: Accidental Recording Detection and Prevention](./voicenotes/fr-accidental-recording-detection-and-prevention.md) - July 2025
+- [Feature Idea: Tag to Prompt Automations](./voicenotes/feature-idea-tag-to-prompt-automations.md) - June 2025
+- [Feature Request: Note Backup & Export](./voicenotes/feature-request---note-backup--export.md) - June 2025
+- [Feature Idea: Create Custom Prompts with Voice!](./voicenotes/feature-idea-create-custom-prompts-with-voice!.md) - June 2025
+- [Feature Idea: User Personalisation Elements (Name, Email Sig)](./voicenotes/feature-idea-user-personalisation-elements-(name,-email-sig)-that-get-appended-to-transformation-pro.md) - June 2025
+- [Feature Request: Verbatim/Unedited Output Option for All Notes (Raw Copy)](./voicenotes/feature-request-verbatimunedited-output-option-for-all-notes-(raw-copy).md) - June 2025
+- [Improved System Prompts for Note Reformatting (Request, Idea)](./voicenotes/improved-system-prompts-for-note-reformatting-(request,-idea).md) - June 2025
+- [FR: Bluetooth Microphone Source for Android](./voicenotes/fr-bluetooth-microphone-source-for-android.md) - June 2025
+- [Feature Request: Configurable Webhook & Integration Delay Interval](./voicenotes/feature-request-configurable-webhook-&-integration-delay-interval.md) - June 2025
+- [Feature Request: More Keyboard Shortcuts!](./voicenotes/feature-request-more-keyboard-shortcuts!.md) - June 2025
+
 ## Author
 
 Daniel Rosehill  
