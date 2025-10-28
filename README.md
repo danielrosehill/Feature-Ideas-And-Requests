@@ -1,12 +1,18 @@
 # Feature Ideas And Requests
 
- Sometimes I contribute feature requests and ideas to tech services that I use and love.
+Sometimes I contribute feature requests and ideas to tech services that I use and love.
 
- I thought it might be worthwhile aggregating them in a Github repository so that in the future I can perhaps link to a specific markdown file here rather than scattering them in different places. 
+I thought it might be worthwhile aggregating them in a Github repository so that in the future I can perhaps link to a specific markdown file here rather than scattering them in different places.
 
- I'm going to try my best to keep these in a semi organized fashion. I'll bundle specific ideas for platforms into folders. And because these ideas might become outdated, I will also record the date in which I wrote them. 
+I'm going to try my best to keep these in a semi-organized fashion. I'll bundle specific ideas for platforms into folders. And because these ideas might become outdated, I will also record the date in which I wrote them.
 
- I may get around to thinking about a templated way for making feature
+## Index of Feature Requests
+
+### n8n
+- [Drop Fields Node for Data Redaction and Branching](./n8n/drop-fields-node-data-redaction-branching.md) - August 19, 2025
+- [UI Helper/Picker for Date Range](./n8n/date-range-picker-ui/README.md) - July 31, 2025
+- [Conversational Form Node for Input Data Capture](./n8n/conversational-form-node.md) - May 27, 2025
+- [Easier Canvas Navigation: Arrow Nav, Minimap, Grab](./n8n/canvas-navigation-improvements/README.md) - May 8, 2025
 
 ## Author
 
