@@ -14,6 +14,10 @@ I'm going to try my best to keep these in a semi-organized fashion. I'll bundle 
 - [Conversational Form Node for Input Data Capture](./n8n/conversational-form-node.md) - May 27, 2025
 - [Easier Canvas Navigation: Arrow Nav, Minimap, Grab](./n8n/canvas-navigation-improvements/README.md) - May 8, 2025
 
+### NotebookLM
+- [Previous Outputs as Context Data](./notebooklm/previous-outputs-as-context-data.md) - October 2025
+- [System Prompt for Report Generation](./notebooklm/system-prompt-for-report-generation.md) - October 2025
+
 ## Author
 
 Daniel Rosehill  
